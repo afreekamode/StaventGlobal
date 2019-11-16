@@ -20,6 +20,9 @@
   <!-- Material Design Bootstrap -->
   <link href="./css/mdb.min.css" rel="stylesheet">
 
+  <!-- Your custom styles (optional) -->
+  <link href="./css/style.css" rel="stylesheet">
+
   <style>
     html,
         body,
@@ -76,7 +79,7 @@ position:absolute;
               <a class="nav-link" href="#contact" data-offset="100">Contact Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="blog.php" data-offset="100">Blog</a>
+              <a class="nav-link" href="blog.html" data-offset="100">Blog</a>
             </li>
           </ul>
           <!-- Social Icon  -->
@@ -220,8 +223,12 @@ position:absolute;
                 <i class="fas fa-car fa-2x mb-1 blue-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-4">
-                <h5 class="feature-title font-weight-bold mb-2">| Creative Thinking</h5>
-                <p class="grey-text">It is often said that it is easy to teach someone how to do a job, but it's harder to teach someone how to think differently. At STAVENT GLOBAL VENTURES, we have a proven methods that has worked and we believe we can still deliver or teach our client such methods.</p>
+                <h5 class="feature-title font-weight-bold mb-2">| Partnership/Collaboration</h5>
+                <p class="grey-text">We at STAVENT GLOBAL VENTURES understand how time 
+                  and money would be limited sometimes and in reaction to that we partner or 
+                  collaborate with individual and companies who will want to contribute their 
+                  time or money in bringing our innovative ideas or their innovative ideas into reality. 
+                  At STAVENT GLOBAL VENTURES will to the opinion that innovation is a contact sport.</p>
               </div>
             </div>
             <!--/First row-->
@@ -238,13 +245,8 @@ position:absolute;
                 <i class="fas fa-university fa-2x mb-1 blue-text" aria-hidden="true"></i>
               </div>
               <div class="col-10 mb-4">
-                <h5 class="feature-title font-weight-bold mb-2">| Partnership/Collaboration</h5>
-                <p class="grey-text">We at STAVENT GLOBAL VENTURES understand how time 
-                    and money would be limited sometimes and in reaction to that we partner or 
-                    collaborate with individual and companies who will want to contribute their 
-                    time or money in bringing our innovative ideas or their innovative ideas into reality. 
-                    At STAVENT GLOBAL VENTURES will to the opinion that innovation is a contact sport.
-                  </p>
+                <h5 class="feature-title font-weight-bold mb-2">| Creative Thinking</h5>
+                <p class="grey-text">It is often said that it is easy to teach someone how to do a job, but it's harder to teach someone how to think differently. At STAVENT GLOBAL VENTURES, we have a proven methods that has worked and we believe we can still deliver or teach our client such methods.</p>
               </div>
             </div>
             <!--/First row-->
@@ -292,10 +294,8 @@ position:absolute;
                     </div>
 
                     <!--Content-->
-                    <p><i class="fas fa-quote-left"></i> Sometimes ago were we have this beautifull idea
-                      to start a new Tech company but bringing the idea to live that was tricky, therefore we have to contact 
-                      the expertise of STAVENT GLOBAL VENTURES with their advice and follow up everything went the way we planned, 
-                      right now we are proud to be one of the most respected tech companies in Nigeria.</p>
+                    <p><i class="fas fa-quote-left"></i> What were was good we have this beautifull idea 
+                      to get better but bringing idea to that was tricky but we the expertise of STAVENT GLOBAL we were able to we have benefited a lot from their stream expertise and connection to the idea utilization acumen.</p>
 
                     <div class="mt-1">
                       <h5><strong>Sikiru Shittu</strong></h5>
@@ -368,11 +368,11 @@ position:absolute;
             <p class="grey-text">FOUNDER STAVENT GLOBAL VENTURES</p>
 
             <!--Facebook-->
-            <a type="button" class="btn-floating btn-fb btn-primary" href="https://web.facebook.com/search/top/?q=Stanley+Aigbokhan" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a type="button" class="btn-floating btn-fb btn-primary"><i class="fab fa-facebook-f"></i></a>
             <!--Pinterest-->
             <a type="button" class="btn-floating btn-primary"><i class="fab fa-youtube"></i></a>
             <!--lfa-linkedin-in-->
-            <a type="button" class="btn-floating btn-primary" href="https://www.linkedin.com/in/stanley-aigbokhan-82341055/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a type="button" class="btn-floating btn-primary"><i class="fab fa-linkedin-in"></i></a>
 
           </div>
           <!--/First column-->
@@ -407,9 +407,7 @@ position:absolute;
                 </div>
 
                 <p>We'll write rarely, but only the best content.</p>
-                <div id="status">
-                  
-                </div>
+                <div id="status"> </div>
                
                 <br>
 
